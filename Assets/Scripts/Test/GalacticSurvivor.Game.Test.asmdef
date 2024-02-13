@@ -1,0 +1,16 @@
+{
+    "name": "GalacticSurvivor.Game.Test",
+    "rootNamespace": "GalacticSurvivor.Game.Test",
+    "references": [
+        "GUID:92652804aa6774f42aa64e8a902edf0c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
